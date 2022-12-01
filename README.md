@@ -1,4 +1,4 @@
-# This is a toy NFT mint web project just for practicing
+# This is a toy NFT mint web project just for practicing web and contract.
 
 # Getting Started with Create React App
 
